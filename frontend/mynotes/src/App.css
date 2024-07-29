@@ -1,0 +1,49 @@
+.all{
+    padding: 4%;
+    display: flex;
+    justify-content: center;
+}
+.formCreate {
+    background-color: #f9f9f9;
+    padding: 5%; 
+    margin-left: 10%;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    width: 65%;  
+    text-align: center;
+    margin-bottom: 5%;
+}
+.formCreate input {
+    margin-bottom: 5%;
+}
+.formCreate textarea {
+    margin-bottom: 5%;
+}
+.formCreate button {
+    margin-top: 6%;
+    width: 80%;
+}
+.filters input{
+    margin-bottom: 5%;
+    width: 65%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-left: 10%;
+}
+.filters select {
+    width: 25%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    width: 65%;
+    margin-left: 10%;
+}
+ul { 
+    list-style-type: none; 
+    width: 45%; 
+    flex-direction: column;
+}
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 8%; 
+}
+.card button {
+    width: 50%;
+}

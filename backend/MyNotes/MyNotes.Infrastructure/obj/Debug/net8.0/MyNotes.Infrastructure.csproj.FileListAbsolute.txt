@@ -1,0 +1,17 @@
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Infrastructure.deps.json
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Infrastructure.runtimeconfig.json
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Infrastructure.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Infrastructure.pdb
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Core.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\bin\Debug\net8.0\MyNotes.Core.pdb
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.AssemblyInfo.cs
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.csproj.CopyComplete
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\refint\MyNotes.Infrastructure.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.pdb
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\MyNotes.Infrastructure.genruntimeconfig.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Infrastructure\obj\Debug\net8.0\ref\MyNotes.Infrastructure.dll

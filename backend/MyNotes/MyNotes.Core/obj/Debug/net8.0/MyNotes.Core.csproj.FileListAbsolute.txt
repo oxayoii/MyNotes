@@ -1,0 +1,14 @@
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\bin\Debug\net8.0\MyNotes.Core.deps.json
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\bin\Debug\net8.0\MyNotes.Core.runtimeconfig.json
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\bin\Debug\net8.0\MyNotes.Core.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\bin\Debug\net8.0\MyNotes.Core.pdb
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.AssemblyInfo.cs
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\refint\MyNotes.Core.dll
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.pdb
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\MyNotes.Core.genruntimeconfig.cache
+C:\Users\Катя\Desktop\MyNotes\backend\MyNotes\MyNotes.Core\obj\Debug\net8.0\ref\MyNotes.Core.dll
